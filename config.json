@@ -1,0 +1,89 @@
+{
+  "lora": {
+    "adapter_name": "DameSermonde",
+    "lora_repo": "margotfournier/DameSermonde-v0",
+    "weight_name": "DameSermonde_24gb_000001750.safetensors"
+  },
+  "prompts": [
+    {
+      "prompt": "DameSermonde sitting at a carved wooden vanity table, applying medieval makeup with a calm yet mildly annoyed expression, wearing a silk underdress, soft candlelight, gold-trimmed mirror, small glass jars and brushes on the table, elegant castle chamber background, Instagram-ready",
+      "output_dir": "outputs/prompt_000"
+    },
+    {
+      "prompt": "DameSermonde walking confidently in a stone castle corridor, wearing an elegant embroidered medieval dress, looking over her shoulder with a sly smile, morning light hitting her face, loose curls, golden accents, medieval fashion influencer style",
+      "output_dir": "outputs/prompt_001"
+    },
+    {
+      "prompt": "DameSermonde standing at the edge of a candlelit ballroom, wearing a deep red velvet dress, looking stunned and dreamy, crowd dancing in soft blur behind her, holding a silver goblet, long auburn hair glowing in warm light, romantic medieval vibe",
+      "output_dir": "outputs/prompt_002"
+    },
+    {
+      "prompt": "DameSermonde strolling through a sunlit medieval forest, holding her skirts, smiling slightly as she notices something, auburn hair flowing in soft wind, soft sunlight filtering through the trees, natural makeup, romantic aesthetic",
+      "output_dir": "outputs/prompt_003"
+    },
+    {
+      "prompt": "Portrait of DameSermonde in a candle-lit medieval room, holding a crumpled letter, her expression both hesitant and moved, warm amber light, silk sleeves, visible emotion, cozy but private atmosphere",
+      "output_dir": "outputs/prompt_004"
+    },
+    {
+      "prompt": "DameSermonde sitting on a mossy rock in the forest, cloak draped over her shoulders, thoughtful expression, sunlight catching her auburn hair, subtle glance to the side, romantic and serene ambiance",
+      "output_dir": "outputs/prompt_005"
+    },
+    {
+      "prompt": "DameSermonde laughing during a medieval feast, one sleeve falling off her shoulder, silver goblet in hand, candlelight flickering, blurred male figure in the background, joyful and candid scene",
+      "output_dir": "outputs/prompt_006"
+    },
+    {
+      "prompt": "DameSermonde leaning on a castle terrace balustrade, wistful gaze toward a disappearing figure in the distance, dusk lighting, wind gently lifting her hair and veil, emotional yet composed",
+      "output_dir": "outputs/prompt_007"
+    },
+    {
+      "prompt": "DameSermonde sitting in the shadows during a banquet, hiding behind a decorated fan, eyes peeking over it with a mischievous look, crowded scene behind her, intrigue and subtle flirtation vibes",
+      "output_dir": "outputs/prompt_008"
+    },
+    {
+      "prompt": "DameSermonde kneeling by a stone hearth in a dim chamber, holding a letter near the flames, long loose hair, reflective mood, firelight casting warm tones on her face, secretive and intimate moment",
+      "output_dir": "outputs/prompt_009"
+    },
+    {
+      "prompt": "DameSermonde standing in a castle hallway, half-turned, wearing a velvet gown with dramatic sleeves, suspicious expression, low torchlight, medieval tapestries in background, moody atmosphere",
+      "output_dir": "outputs/prompt_010"
+    },
+    {
+      "prompt": "DameSermonde alone in a moonlit castle courtyard, arms crossed, wind blowing her cloak, melancholic expression, starry sky, atmosphere of mystery and absence",
+      "output_dir": "outputs/prompt_011"
+    },
+    {
+      "prompt": "DameSermonde at a dimly lit dinner table, single candle, silver plate half-eaten, seated in silence with a composed face, heavy shadows, medieval noble setting",
+      "output_dir": "outputs/prompt_012"
+    },
+    {
+      "prompt": "DameSermonde sitting in a bright stone alcove, sipping tea from a medieval cup, relaxed posture, looking through the window with a distant smile, early sunlight, cozy yet regal vibe",
+      "output_dir": "outputs/prompt_013"
+    },
+    {
+      "prompt": "DameSermonde focused on embroidery in a candlelit chamber, threads of red and gold in her hands, elegant embroidery hoop, intense focus on her face, glowing fire in background",
+      "output_dir": "outputs/prompt_014"
+    },
+    {
+      "prompt": "DameSermonde applying makeup with a golden hand mirror, sly smile, sitting at her vanity, medieval cosmetics and hair accessories on table, firelight ambiance, plotting vibe",
+      "output_dir": "outputs/prompt_015"
+    },
+    {
+      "prompt": "DameSermonde seated beside a firepit, holding a parchment, eyes rolling slightly, embroidery and torn silk at her feet, low firelight illuminating her face with dry sarcasm",
+      "output_dir": "outputs/prompt_016"
+    },
+    {
+      "prompt": "DameSermonde watching from a shadowed corner, hands folded, sharp eyes under her veil, dim banquet hall in the background, intense gaze, subtle danger",
+      "output_dir": "outputs/prompt_017"
+    },
+    {
+      "prompt": "DameSermonde in her private chamber, trying on a new cloak in front of a tall mirror, proud posture, ceremonial-looking fabric, dim warm candlelight, silent confidence",
+      "output_dir": "outputs/prompt_018"
+    },
+    {
+      "prompt": "DameSermonde standing proud in the castle courtyard at dusk, wearing a bold red dress, full makeup, wind catching her veil, eyes fixed ahead, dramatic light, powerful presence",
+      "output_dir": "outputs/prompt_019"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+diffusers
+torch
+transformers
+matplotlib
+pillow
+peft
+protobuf
+sentencepiece
+ipykernel
